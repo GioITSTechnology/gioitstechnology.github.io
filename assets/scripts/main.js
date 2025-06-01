@@ -116,17 +116,17 @@ document.head.appendChild(style);
 async function fetchData() {
     try {
         const data = {
-            0: await import('../data/0.json', { assert: { type: 'json' } }).then(m => m.default),
-            1: await import('../data/1.json', { assert: { type: 'json' } }).then(m => m.default),
-            2: await import('../data/2.json', { assert: { type: 'json' } }).then(m => m.default),
-            3: await import('../data/3.json', { assert: { type: 'json' } }).then(m => m.default),
-            4: await import('../data/4.json', { assert: { type: 'json' } }).then(m => m.default)
+            0: await fetch('../data/0.json').then(response => response.json()),
+            1: await fetch('../data/1.json').then(response => response.json()),
+            2: await fetch('../data/2.json').then(response => response.json()),
+            3: await fetch('../data/3.json').then(response => response.json()),
+            4: await fetch('../data/4.json').then(response => response.json())
         };
-		
-		//Inserisci il testo generato dall'ai
+        
+        //Inserisci il testo generato dall'ai
         document.getElementById('aiContent').textContent = data['4'] || '';
 
-		//Crea le varie tabelle
+        //Crea le varie tabelle
         if (data['0']) createTable(data['0'], 'assignedTable');
         if (data['1']) createTable(data['1'], 'tenDaysTable');
         if (data['2']) createTable(data['2'], 'shippedTable');
@@ -134,7 +134,7 @@ async function fetchData() {
 
     } catch (error) {
         console.error('Errore nel recupero dei dati:', error);
-        alert('Errore nel recupero dei dati:');
+        alert('Errore nel recupero dei dati: ' + error.message);
     }
 }
 

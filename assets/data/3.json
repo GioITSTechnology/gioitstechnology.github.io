@@ -1,0 +1,40 @@
+{
+	"0":	[{
+			"id_chiamata":	"158830",
+			"data_apertura_chiamata":	"2025-02-20 11:48:01",
+			"descrizione_chiamata":	"Spostamento macchina per lavori idraulici. Da spostare al piano 2 ed una volta finiti i lavori va riposizionata al piano 1",
+			"descrizione_apparecchiatura":	"-",
+			"nome_tipologia_apparecchiatura":	"SELEZIONATORE DI PROVETTE",
+			"nome_produttore":	"MOT GMBH",
+			"nome_centro_costo":	"PRELIEVI ESTERNI PRESIDIO VIA P. DAL MONTE (EX AREA STAUFFER)***annullato 01/01/2016",
+			"ubicazione_centro_costo":	"AMBULATORI AREA STAUFFER - PRIMO PIANO"
+		}],
+	"1":	[{
+			"giorni_trascorsi":	"18",
+			"id_chiamata":	"158433",
+			"note_azione":	"La macchina segnala errore 129",
+			"nome_tipologia_apparecchiatura":	"FLUORANGIOGRAFO",
+			"descrizione_apparecchiatura":	"GHOSTRALIS HRA+OCT SHIFT",
+			"nome_produttore":	"DINKLEBERG ENGINEERING GMBH",
+			"ragione_sociale_fornitore":	"VEDI VISION S.R.L."
+		}, {
+			"giorni_trascorsi":	"51",
+			"id_chiamata":	"157064",
+			"note_azione":	"Ripristinato funzionalità braccetto, si lascia in prova al reparto. SI chiede intervento per stabilizzare l’apparecchiatura che risulta traballante (il reparto sta utilizzando una mascherina per stabilizzare la cabina)",
+			"nome_tipologia_apparecchiatura":	"SPIROMETRO A USO CLINICO DIAGNOSTICO",
+			"descrizione_apparecchiatura":	"Q-BOX",
+			"nome_produttore":	"COSMOS SRL",
+			"ragione_sociale_fornitore":	"COSMOS S.R.L."
+		}, {
+			"giorni_trascorsi":	"54",
+			"id_chiamata":	"156922",
+			"note_azione":	"Vibra un tubo dell'acqua causando baccano. Si richiede verifica dell'impianto",
+			"nome_tipologia_apparecchiatura":	"PRODUZIONE ACQUA PURA, APPARECCHIO PER",
+			"descrizione_apparecchiatura":	"BRO 454",
+			"nome_produttore":	"GEMSIS XY",
+			"ragione_sociale_fornitore":	"DEXTER S.P.A."
+		}],
+	"2":	[],
+	"3":	[],
+	"4":	"Ciao Michele! Analizziamo le due chiamate che hai gestito:\n\nANALISI SITUAZIONE:\n1. Chiamata #157847 - Manutenzione ordinaria gascromatografo\n- Intervento programmato non in garanzia\n- Apparecchiatura specialistica di laboratorio\n- Richiesta manutenzione preventiva annuale\n\n2. Chiamata #157599 - Guasto alimentatore notebook\n- Problema hardware identificato\n- Necessità di sostituzione componente\n- Richiesto preventivo per soluzione\n\nPROCEDURA DA SEGUIRE:\nPer gascromatografo:\n1. Contattare SNA INSTRUMENTS per pianificare intervento\n2. Preparare richiesta preventivo manutenzione\n3. Attendere approvazione DSIC\n4. Programmare data intervento\n\nPer notebook:\n1. Acquisire preventivo per alimentatore universale\n2. Sottoporre preventivo a RdS\n3. Dopo approvazione, procedere con acquisto\n4. Pianificare sostituzione componente\n\nDOCUMENTI NECESSARI:\nPer gascromatografo:\n• Cartellina intervento\n• Richiesta preventivo manutenzione\n• Scheda apparecchiatura\n• Storico manutenzioni\n\nPer notebook:\n• Preventivo alimentatore\n• OdL compilato\n• Documentazione test effettuati\n• Richiesta approvazione acquisto\n\n⚠️ ATTENZIONE:\n• Gascromatografo: verificare disponibilità laboratorio per intervento\n• Notebook: assicurarsi compatibilità voltaggio/amperaggio del nuovo alimentatore\n• Documentare dettagliatamente prove effettuate per futuri riferimenti\n\n➡️ PROSSIMA AZIONE:\n1. Gascromatografo: Sollecitare preventivo da SNA INSTRUMENTS\n2. Notebook: Verificare stato approvazione preventivo alimentatore\n\nEntrambe le situazioni sono state gestite correttamente secondo le procedure standard, con appropriata documentazione e richieste di preventivo dove necessario.\n"
+}

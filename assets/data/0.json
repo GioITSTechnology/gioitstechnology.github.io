@@ -1,0 +1,286 @@
+{
+	"0":	[{
+			"id_chiamata":	"158981",
+			"data_apertura_chiamata":	"2025-02-25 05:49:00",
+			"descrizione_chiamata":	"non tiene la carica",
+			"descrizione_apparecchiatura":	"POMPA MC",
+			"nome_tipologia_apparecchiatura":	"POMPA DI INFUSIONE",
+			"nome_produttore":	"FRANCESCIUS VIAL SA",
+			"nome_centro_costo":	"GASTROENTEROLOGIA - degenza",
+			"ubicazione_centro_costo":	"SCB CENTRALE - SCALA 5 TERZO PIANO"
+		}, {
+			"id_chiamata":	"156755",
+			"data_apertura_chiamata":	"2025-01-02 07:02:15",
+			"descrizione_chiamata":	"rotta",
+			"descrizione_apparecchiatura":	"BODYGUARD ONE",
+			"nome_tipologia_apparecchiatura":	"POMPA DI INFUSIONE",
+			"nome_produttore":	"BECKIE & CO",
+			"nome_centro_costo":	"MALATTIE INFETTIVE AD INDIRIZZO TROPICALE - degenza",
+			"ubicazione_centro_costo":	"SCB PAD. INFETTIVI - QUARTO PIANO"
+		}],
+	"1":	[{
+			"giorni_trascorsi":	"20",
+			"id_chiamata":	"158336",
+			"note_azione":	"R-18 Si richiede sostituzione o-ring per ablatore, grazie. ODONTOSTOMATOLOGIA",
+			"nome_tipologia_apparecchiatura":	"RIUNITO DENTISTICO",
+			"descrizione_apparecchiatura":	"Intendo lite",
+			"nome_produttore":	"SILVIONA DENTAL SOLUTIONS",
+			"ragione_sociale_fornitore":	"SPED SERV. E TECNOL. ELETTROMEDICALI SRL"
+		}, {
+			"giorni_trascorsi":	"37",
+			"id_chiamata":	"157680",
+			"note_azione":	"R10 – Riunito funzionante ma aperta chiamata per sibilo costante, grazie.",
+			"nome_tipologia_apparecchiatura":	"RIUNITO DENTISTICO",
+			"descrizione_apparecchiatura":	"Intendo lite",
+			"nome_produttore":	"SILVIONA DENTAL SOLUTIONS",
+			"ragione_sociale_fornitore":	"SPED SERV. E TECNOL. ELETTROMEDICALI SRL"
+		}, {
+			"giorni_trascorsi":	"38",
+			"id_chiamata":	"157633",
+			"note_azione":	"La batteria non fornisce energia alla pinza. La pinza non salda. Già presi accordi con Fresenius",
+			"nome_tipologia_apparecchiatura":	"SALDATORE DI TUBI",
+			"descrizione_apparecchiatura":	"SEAL MOBIL",
+			"nome_produttore":	"FRANCESCIUS VIAL SA",
+			"ragione_sociale_fornitore":	"FRANCESCIUS VIAL SA"
+		}, {
+			"giorni_trascorsi":	"38",
+			"id_chiamata":	"157632",
+			"note_azione":	"LA BATTERIA NON SI CARICA, IL LED GIALLO NON SI ACCENDE, GIA’ PRESI ACCORDI CON FRESENIUS",
+			"nome_tipologia_apparecchiatura":	"SALDATORE DI TUBI",
+			"descrizione_apparecchiatura":	"SEAL MOBIL",
+			"nome_produttore":	"FRANCESCIUS VIAL SA",
+			"ragione_sociale_fornitore":	"FRANCESCIUS VIAL SA"
+		}, {
+			"giorni_trascorsi":	"41",
+			"id_chiamata":	"157428",
+			"note_azione":	"non tiene temperatura, da controllare",
+			"nome_tipologia_apparecchiatura":	"PREPARATORE DEI CAMPIONI PER L'ANALISI\nCROMOSOMICA",
+			"descrizione_apparecchiatura":	"OPTIMASTER",
+			"nome_produttore":	"USACOPY LTD",
+			"ragione_sociale_fornitore":	"USACOPY LTD"
+		}, {
+			"giorni_trascorsi":	"51",
+			"id_chiamata":	"157054",
+			"note_azione":	"Si richiede di variare il dato presente sulla schermata principale da “BS^127300/BS-BO NEURO a BS^110240/BS-UTIC”. Grazie",
+			"nome_tipologia_apparecchiatura":	"EMOGASANALIZZATORE",
+			"descrizione_apparecchiatura":	"JEWEL 2000",
+			"nome_produttore":	"INSTRUMENTATION LABORATORY",
+			"ragione_sociale_fornitore":	"INSTRUMENTATION LABORATORY SPA"
+		}, {
+			"giorni_trascorsi":	"59",
+			"id_chiamata":	"156774",
+			"note_azione":	"Bruciata una resistenza. Già contattata la ditta, siamo n attesa del pezzo di ricambio da sostituire grazie",
+			"nome_tipologia_apparecchiatura":	"SPETTROFOTOMETRO",
+			"descrizione_apparecchiatura":	"XEVOTQSIVD",
+			"nome_produttore":	"FIRES CORP",
+			"ragione_sociale_fornitore":	"SYSTEM INSTRUMENTS"
+		}],
+	"2":	[{
+			"data_spedizione":	"2025-02-28 08:53:00",
+			"id_chiamata":	"158721",
+			"id_apparecchiatura":	"451000429",
+			"nome_tipologia_apparecchiatura":	"POMPA DI INFUSIONE",
+			"descrizione_apparecchiatura":	"CAKE 180",
+			"nome_produttore":	"SPIROHO INC"
+		}, {
+			"data_spedizione":	"2025-02-26 15:03:00",
+			"id_chiamata":	"158873",
+			"id_apparecchiatura":	"450004595",
+			"nome_tipologia_apparecchiatura":	"POMPA DI INFUSIONE",
+			"descrizione_apparecchiatura":	"BODYGUARD ONE",
+			"nome_produttore":	"BECKIE & CO"
+		}, {
+			"data_spedizione":	"2025-02-25 09:05:00",
+			"id_chiamata":	"158652",
+			"id_apparecchiatura":	"451000446",
+			"nome_tipologia_apparecchiatura":	"POMPA DI INFUSIONE",
+			"descrizione_apparecchiatura":	"CAKE 180",
+			"nome_produttore":	"SPIROHO INC"
+		}, {
+			"data_spedizione":	"2025-02-25 09:05:00",
+			"id_chiamata":	"158571",
+			"id_apparecchiatura":	"451000501",
+			"nome_tipologia_apparecchiatura":	"POMPA DI INFUSIONE",
+			"descrizione_apparecchiatura":	"CAKE 180",
+			"nome_produttore":	"SPIROHO INC"
+		}, {
+			"data_spedizione":	"2025-02-25 09:05:00",
+			"id_chiamata":	"158561",
+			"id_apparecchiatura":	"451000374",
+			"nome_tipologia_apparecchiatura":	"POMPA DI INFUSIONE",
+			"descrizione_apparecchiatura":	"CAKE 180",
+			"nome_produttore":	"SPIROHO INC"
+		}, {
+			"data_spedizione":	"2025-02-24 07:44:00",
+			"id_chiamata":	"158132",
+			"id_apparecchiatura":	"450005550",
+			"nome_tipologia_apparecchiatura":	"POMPA DI INFUSIONE",
+			"descrizione_apparecchiatura":	"GOODINFUSION VIP",
+			"nome_produttore":	"YARBRAIN CO LTD"
+		}, {
+			"data_spedizione":	"2025-02-24 07:44:00",
+			"id_chiamata":	"158131",
+			"id_apparecchiatura":	"450005514",
+			"nome_tipologia_apparecchiatura":	"POMPA DI INFUSIONE",
+			"descrizione_apparecchiatura":	"GOODINFUSION VIP",
+			"nome_produttore":	"YARBRAIN CO LTD"
+		}, {
+			"data_spedizione":	"2025-02-21 10:25:00",
+			"id_chiamata":	"158312",
+			"id_apparecchiatura":	"450002331",
+			"nome_tipologia_apparecchiatura":	"POMPA DI INFUSIONE",
+			"descrizione_apparecchiatura":	"POMPA MC",
+			"nome_produttore":	"FRANCESCIUS VIAL SA"
+		}, {
+			"data_spedizione":	"2025-02-21 10:25:00",
+			"id_chiamata":	"158309",
+			"id_apparecchiatura":	"450000058",
+			"nome_tipologia_apparecchiatura":	"POMPA DI INFUSIONE",
+			"descrizione_apparecchiatura":	"POMPA MC",
+			"nome_produttore":	"FRANCESCIUS VIAL SA"
+		}, {
+			"data_spedizione":	"2025-02-21 10:25:00",
+			"id_chiamata":	"158295",
+			"id_apparecchiatura":	"450001939",
+			"nome_tipologia_apparecchiatura":	"POMPA DI INFUSIONE",
+			"descrizione_apparecchiatura":	"POMPA MC",
+			"nome_produttore":	"FRANCESCIUS VIAL SA"
+		}, {
+			"data_spedizione":	"2025-02-21 10:25:00",
+			"id_chiamata":	"158104",
+			"id_apparecchiatura":	"450001452",
+			"nome_tipologia_apparecchiatura":	"POMPA DI INFUSIONE",
+			"descrizione_apparecchiatura":	"POMPA MC",
+			"nome_produttore":	"FRANCESCIUS VIAL SA"
+		}, {
+			"data_spedizione":	"2025-02-17 09:31:00",
+			"id_chiamata":	"158013",
+			"id_apparecchiatura":	"451000511",
+			"nome_tipologia_apparecchiatura":	"POMPA DI INFUSIONE",
+			"descrizione_apparecchiatura":	"CAKE 180",
+			"nome_produttore":	"SPIROHO INC"
+		}, {
+			"data_spedizione":	"2025-02-06 14:42:00",
+			"id_chiamata":	"157838",
+			"id_apparecchiatura":	"451000449",
+			"nome_tipologia_apparecchiatura":	"POMPA DI INFUSIONE",
+			"descrizione_apparecchiatura":	"CAKE 180",
+			"nome_produttore":	"SPIROHO INC"
+		}, {
+			"data_spedizione":	"2025-02-06 14:42:00",
+			"id_chiamata":	"157837",
+			"id_apparecchiatura":	"451000424",
+			"nome_tipologia_apparecchiatura":	"POMPA DI INFUSIONE",
+			"descrizione_apparecchiatura":	"CAKE 180",
+			"nome_produttore":	"SPIROHO INC"
+		}, {
+			"data_spedizione":	"2025-02-04 13:55:00",
+			"id_chiamata":	"157230",
+			"id_apparecchiatura":	"450002671",
+			"nome_tipologia_apparecchiatura":	"TERMOMETRO",
+			"descrizione_apparecchiatura":	"SMART 3",
+			"nome_produttore":	"TYCOON MEDICAL CORP"
+		}, {
+			"data_spedizione":	"2025-01-28 14:28:00",
+			"id_chiamata":	"157588",
+			"id_apparecchiatura":	"451000388",
+			"nome_tipologia_apparecchiatura":	"POMPA DI INFUSIONE",
+			"descrizione_apparecchiatura":	"CAKE 180",
+			"nome_produttore":	"SPIROHO INC"
+		}, {
+			"data_spedizione":	"2025-01-28 13:37:00",
+			"id_chiamata":	"157042",
+			"id_apparecchiatura":	"450001499",
+			"nome_tipologia_apparecchiatura":	"POMPA PER VUOTO",
+			"descrizione_apparecchiatura":	"DENTE PALM EVO",
+			"nome_produttore":	"REDUX HEALTH DEVICES"
+		}, {
+			"data_spedizione":	"2025-01-28 11:42:00",
+			"id_chiamata":	"157228",
+			"id_apparecchiatura":	"451000467",
+			"nome_tipologia_apparecchiatura":	"POMPA DI INFUSIONE",
+			"descrizione_apparecchiatura":	"CAKE 180",
+			"nome_produttore":	"SPIROHO INC"
+		}, {
+			"data_spedizione":	"2025-01-27 11:16:00",
+			"id_chiamata":	"157350",
+			"id_apparecchiatura":	"451000507",
+			"nome_tipologia_apparecchiatura":	"POMPA DI INFUSIONE",
+			"descrizione_apparecchiatura":	"CAKE 180",
+			"nome_produttore":	"SPIROHO INC"
+		}],
+	"3":	[{
+			"id_chiamata":	"157571",
+			"id_apparecchiatura":	"450000674",
+			"nome_tipologia_apparecchiatura":	"NUTRIPOMPA",
+			"descrizione_apparecchiatura":	"APPLIX SMART",
+			"nome_produttore":	"FRANCESCIUS VIAL SA"
+		}, {
+			"id_chiamata":	"158356",
+			"id_apparecchiatura":	"451000499",
+			"nome_tipologia_apparecchiatura":	"POMPA DI INFUSIONE",
+			"descrizione_apparecchiatura":	"CAKE 180",
+			"nome_produttore":	"SPIROHO INC"
+		}, {
+			"id_chiamata":	"158063",
+			"id_apparecchiatura":	"451000421",
+			"nome_tipologia_apparecchiatura":	"POMPA DI INFUSIONE",
+			"descrizione_apparecchiatura":	"CAKE 180",
+			"nome_produttore":	"SPIROHO INC"
+		}, {
+			"id_chiamata":	"158374",
+			"id_apparecchiatura":	"451000473",
+			"nome_tipologia_apparecchiatura":	"POMPA DI INFUSIONE",
+			"descrizione_apparecchiatura":	"CAKE 180",
+			"nome_produttore":	"SPIROHO INC"
+		}, {
+			"id_chiamata":	"158376",
+			"id_apparecchiatura":	"451000457",
+			"nome_tipologia_apparecchiatura":	"POMPA DI INFUSIONE",
+			"descrizione_apparecchiatura":	"CAKE 180",
+			"nome_produttore":	"SPIROHO INC"
+		}, {
+			"id_chiamata":	"158315",
+			"id_apparecchiatura":	"451000371",
+			"nome_tipologia_apparecchiatura":	"POMPA DI INFUSIONE",
+			"descrizione_apparecchiatura":	"CAKE 180",
+			"nome_produttore":	"SPIROHO INC"
+		}, {
+			"id_chiamata":	"157155",
+			"id_apparecchiatura":	"450004640",
+			"nome_tipologia_apparecchiatura":	"POMPA DI INFUSIONE",
+			"descrizione_apparecchiatura":	"BODYGUARD ONE",
+			"nome_produttore":	"BECKIE & CO"
+		}, {
+			"id_chiamata":	"157367",
+			"id_apparecchiatura":	"450001489",
+			"nome_tipologia_apparecchiatura":	"POMPA DI INFUSIONE",
+			"descrizione_apparecchiatura":	"POMPA MC",
+			"nome_produttore":	"FRANCESCIUS VIAL SA"
+		}, {
+			"id_chiamata":	"157025",
+			"id_apparecchiatura":	"450003564",
+			"nome_tipologia_apparecchiatura":	"POMPA PER VUOTO",
+			"descrizione_apparecchiatura":	"DENTE PALM EVO",
+			"nome_produttore":	"REDUX HEALTH DEVICES"
+		}, {
+			"id_chiamata":	"157390",
+			"id_apparecchiatura":	"450005548",
+			"nome_tipologia_apparecchiatura":	"POMPA DI INFUSIONE",
+			"descrizione_apparecchiatura":	"GOODINFUSION VIP",
+			"nome_produttore":	"YARBRAIN CO LTD"
+		}, {
+			"id_chiamata":	"157649",
+			"id_apparecchiatura":	"450005292",
+			"nome_tipologia_apparecchiatura":	"POMPA DI INFUSIONE",
+			"descrizione_apparecchiatura":	"BENEFUSION EVP A",
+			"nome_produttore":	"YARBRAIN CO LTD"
+		}, {
+			"id_chiamata":	"157366",
+			"id_apparecchiatura":	"450000584",
+			"nome_tipologia_apparecchiatura":	"POMPA DI INFUSIONE",
+			"descrizione_apparecchiatura":	"POMPA MC",
+			"nome_produttore":	"FRANCESCIUS VIAL SA"
+		}],
+	"4":	"Buongiorno Sonia!\n\nANALISI SITUAZIONE:\nNon risultano chiamate di intervento aperte a tuo nome. Questo significa che sei disponibile per nuove assegnazioni.\n\nPROCEDURA DA SEGUIRE:\n1. Verificare il software gestionale per eventuali nuove chiamate in arrivo\n2. Mantenersi disponibile per interventi urgenti\n3. Utilizzare il tempo per:\n   - Aggiornamento documentazione pregressa\n   - Controllo scadenze manutenzioni preventive\n   - Verifica inventario parti di ricambio\n\nDOCUMENTI NECESSARI:\n• Nessun documento urgente da gestire\n• Eventuale consultazione del calendario manutenzioni programmate\n\n⚠️ ATTENZIONE:\n• Mantenere il telefono di servizio acceso e raggiungibile\n• Verificare di aver chiuso correttamente tutte le chiamate precedenti\n• Controllare eventuali follow-up necessari su interventi recenti\n\n➡️ PROSSIMA AZIONE:\nConsultare il software gestionale per verificare eventuali nuove richieste di intervento o manutenzioni programmate da pianificare."
+}

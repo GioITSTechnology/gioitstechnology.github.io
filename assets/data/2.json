@@ -1,0 +1,131 @@
+{
+	"0":	[{
+			"id_chiamata":	"158264",
+			"data_apertura_chiamata":	"2025-02-07 10:37:49",
+			"descrizione_chiamata":	"si blocca il collegamento alla rete aziendale per archiviazione dati che si perdono , già fatto presente e in attesa di cambio PC",
+			"descrizione_apparecchiatura":	"QUACK CPET",
+			"nome_tipologia_apparecchiatura":	"SPIROMETRO A USO CLINICO DIAGNOSTICO",
+			"nome_produttore":	"COSMOS SRL",
+			"nome_centro_costo":	"PNEUMOLOGIA - Fisiopatologia Respiratoria",
+			"ubicazione_centro_costo":	"SCB SAT. OVEST - SCALA 11 QUINTO PIANO"
+		}, {
+			"id_chiamata":	"157903",
+			"data_apertura_chiamata":	"2025-01-29 11:42:53",
+			"descrizione_chiamata":	"si chiede fornitura di \nn. 02 cavi per messa a terra lungh 5-7 mt con attacco a pensile \nn. 04 cavi elettrici lungh 5 mt",
+			"descrizione_apparecchiatura":	"OVVIO 400 E",
+			"nome_tipologia_apparecchiatura":	"ELETTROBISTURI",
+			"nome_produttore":	"GRASS ELEKTROMEDIZIN GMBH",
+			"nome_centro_costo":	"UROLOGIA - Centro Operatorio",
+			"ubicazione_centro_costo":	"SCB CENTRALE - SCALA 3 QUARTO PIANO"
+		}],
+	"1":	[{
+			"giorni_trascorsi":	"13",
+			"id_chiamata":	"158577",
+			"note_azione":	"Cavo Y del PRAM non funzionante",
+			"nome_tipologia_apparecchiatura":	"MISURATORE GITTATA CARDIACA",
+			"descrizione_apparecchiatura":	"ALMOST-CARE",
+			"nome_produttore":	"PROJECT MEDIC SRL",
+			"ragione_sociale_fornitore":	"FLYGON  ITALIA"
+		}, {
+			"giorni_trascorsi":	"13",
+			"id_chiamata":	"158527",
+			"note_azione":	"Si richiede intervento su cavo fonte luminosa in quanto emette una luce fioca",
+			"nome_tipologia_apparecchiatura":	"FONTE LUMINOSA PER ENDOSCOPIA",
+			"descrizione_apparecchiatura":	"DGX-T200",
+			"nome_produttore":	"TARTARUS OPTICAL CO LTD",
+			"ragione_sociale_fornitore":	"TARTARUS ITALIA SRL"
+		}, {
+			"giorni_trascorsi":	"24",
+			"id_chiamata":	"157429",
+			"note_azione":	".",
+			"nome_tipologia_apparecchiatura":	"TRAPANO ORTOPEDICO",
+			"descrizione_apparecchiatura":	"MODE 7 CORDLESS DRIVER",
+			"nome_produttore":	"STRIKING CORP",
+			"ragione_sociale_fornitore":	"KING MIDAS TECNOLOGIA MEDICA SPA"
+		}, {
+			"giorni_trascorsi":	"25",
+			"id_chiamata":	"158160",
+			"note_azione":	"Visione offuscata ",
+			"nome_tipologia_apparecchiatura":	"OTTICA RIGIDA",
+			"descrizione_apparecchiatura":	"0502-103-030",
+			"nome_produttore":	"STRIKING CORP",
+			"ragione_sociale_fornitore":	"KING MIDAS TECNOLOGIA MEDICA SPA"
+		}, {
+			"giorni_trascorsi":	"34",
+			"id_chiamata":	"157684",
+			"note_azione":	"non funziona . Provato anche dallo specialist che ritira il pezzo",
+			"nome_tipologia_apparecchiatura":	"SISTEMA MOTORIZZATO PER NEUROCHIRURGIA",
+			"descrizione_apparecchiatura":	"MOTORE OSSEO",
+			"nome_produttore":	"VERY WELL EARTH SURGERY",
+			"ragione_sociale_fornitore":	"BRAINMED SPA"
+		}, {
+			"giorni_trascorsi":	"39",
+			"id_chiamata":	"157527",
+			"note_azione":	"LA FRESA NON GIRA",
+			"nome_tipologia_apparecchiatura":	"RIUNITO DENTISTICO",
+			"descrizione_apparecchiatura":	"NICE GLASS",
+			"nome_produttore":	"MIGLIONISSIMO SRL",
+			"ragione_sociale_fornitore":	"GENNARO SRL FORNITURE DENTALI E OSP."
+		}, {
+			"giorni_trascorsi":	"39",
+			"id_chiamata":	"157528",
+			"note_azione":	"MANIPOLO ROTTO NON FUNZIONA, SI RICHIEDE MULETTO",
+			"nome_tipologia_apparecchiatura":	"RIUNITO DENTISTICO",
+			"descrizione_apparecchiatura":	"NICE GLASS",
+			"nome_produttore":	"MIGLIONISSIMO SRL",
+			"ragione_sociale_fornitore":	"GENNARO SRL FORNITURE DENTALI E OSP."
+		}, {
+			"giorni_trascorsi":	"40",
+			"id_chiamata":	"157437",
+			"note_azione":	"camicia operativa ceramica rotta",
+			"nome_tipologia_apparecchiatura":	"ELETTROBISTURI",
+			"descrizione_apparecchiatura":	"Autobot III 400",
+			"nome_produttore":	"STRAIGHT CARLO GMBH & CO KG",
+			"ragione_sociale_fornitore":	"ROSI KARL SRL"
+		}, {
+			"giorni_trascorsi":	"41",
+			"id_chiamata":	"157424",
+			"note_azione":	"Il display resta spento anche quando l’apparecchiatura è accesa",
+			"nome_tipologia_apparecchiatura":	"PULSOSSIMETRO",
+			"descrizione_apparecchiatura":	"MN300Y",
+			"nome_produttore":	"NEDCORE INC",
+			"ragione_sociale_fornitore":	"HEALTHTRONIC ITALIA SPA"
+		}, {
+			"giorni_trascorsi":	"47",
+			"id_chiamata":	"157243",
+			"note_azione":	"segnala oct error 009 scanner amplitude error amb 1",
+			"nome_tipologia_apparecchiatura":	"FLUORANGIOGRAFO",
+			"descrizione_apparecchiatura":	"GHOSTRALIS HRA",
+			"nome_produttore":	"DINKLEBERG ENGINEERING GMBH",
+			"ragione_sociale_fornitore":	"VEDI VISION S.R.L."
+		}, {
+			"giorni_trascorsi":	"47",
+			"id_chiamata":	"157130",
+			"note_azione":	"IL MANIPOLO NON FUNZIONA",
+			"nome_tipologia_apparecchiatura":	"ELETTROBISTURI",
+			"descrizione_apparecchiatura":	"MASS TRE PT10",
+			"nome_produttore":	"MOUNTAINLAB INC",
+			"ragione_sociale_fornitore":	"HEALTHTRONIC ITALIA SPA"
+		}],
+	"2":	[],
+	"3":	[{
+			"id_chiamata":	"157491",
+			"id_apparecchiatura":	"450002176",
+			"nome_tipologia_apparecchiatura":	"TERMOREGOLAZIONE CORPOREA, APPARECCHIO PER",
+			"descrizione_apparecchiatura":	"HOTWIND 123",
+			"nome_produttore":	"CSZ CINCINNATI SKORPION PRODUCTS INC"
+		}, {
+			"id_chiamata":	"158217",
+			"id_apparecchiatura":	"450005070",
+			"nome_tipologia_apparecchiatura":	"STAMPANTE PER ETICHETTE",
+			"descrizione_apparecchiatura":	"TT059-5C",
+			"nome_produttore":	"Fornitore fittizio"
+		}, {
+			"id_chiamata":	"157775",
+			"id_apparecchiatura":	"450002839",
+			"nome_tipologia_apparecchiatura":	"PULSOSSIMETRO",
+			"descrizione_apparecchiatura":	"MN300Y",
+			"nome_produttore":	"NEDCORE INC"
+		}],
+	"4":	"Ciao Lorenzo! Analizzerò le tue chiamate in sospeso in ordine di priorità.\n\nANALISI SITUAZIONE:\nHai diverse chiamate aperte che richiedono follow-up, principalmente relative a:\n1. Incubatrice neonatale con sensori O2 scaduti (priorità alta)\n2. Incubatrice da trasporto con ventola rumorosa (priorità alta)\n3. Pressoterapia con cavo rotto\n4. Frigorifero biologico da collegare al telecontrollo\n5. ECG in attesa di conferma funzionamento\n6. Monitor touch sala operatoria in monitoraggio post-intervento\n\nPROCEDURA DA SEGUIRE:\n1. Per incubatrice neonatale (158446):\n   - Sollecitare approvazione preventivo cartucce O2\n   - Coordinare sostituzione urgente per sicurezza pazienti\n\n2. Per incubatrice trasporto (157930):\n   - Richiedere intervento diretto del fornitore\n   - Non procedere con sostituzione autonoma della ventola\n\n3. Per altre apparecchiature:\n   - Verificare stato richieste parti di ricambio\n   - Follow-up interventi in monitoraggio\n\nDOCUMENTI NECESSARI:\n• Preventivi ricevuti (cartucce O2, ventola, remotizzazione frigo)\n• Moduli approvazione preventivi\n• OdL per ogni intervento\n• Documentazione tecnica per verifiche post-intervento\n\n⚠️ ATTENZIONE:\n• Priorità massima alle apparecchiature neonatologia\n• Non intervenire autonomamente sulla ventola incubatrice trasporto\n• Verificare tempistiche consegna ricambi\n• Documentare tutti i follow-up con reparti\n\n➡️ PROSSIMA AZIONE:\n1. Contattare immediatamente RdS per accelerare approvazione preventivo cartucce O2 incubatrice neonatale\n2. Verificare con Burke & Burke tempistica intervento su incubatrice trasporto\n3. Follow-up con reparti per verifiche post-intervento (ECG e monitor touch)\n\n"
+}

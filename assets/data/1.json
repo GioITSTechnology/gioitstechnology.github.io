@@ -1,0 +1,172 @@
+{
+	"0":	[{
+			"id_chiamata":	"157561",
+			"data_apertura_chiamata":	"2025-01-22 09:58:10",
+			"descrizione_chiamata":	"cavo saturazione spelato",
+			"descrizione_apparecchiatura":	"V 2100 G",
+			"nome_tipologia_apparecchiatura":	"INCUBATRICE NEONATALE",
+			"nome_produttore":	"MOLECULE MEDICAL CORP",
+			"nome_centro_costo":	"NEONATOLOGIA (EX 2)",
+			"ubicazione_centro_costo":	"SCB CENTRALE - SCALA 1 QUINTO PIANO"
+		}, {
+			"id_chiamata":	"158994",
+			"data_apertura_chiamata":	"2025-02-25 07:52:50",
+			"descrizione_chiamata":	"apparecchio non funzionante",
+			"descrizione_apparecchiatura":	"MN300Y",
+			"nome_tipologia_apparecchiatura":	"PULSOSSIMETRO",
+			"nome_produttore":	"NEDCORE INC",
+			"nome_centro_costo":	"ONCOEMATOLOGIA PEDIATRICA DEGENZE/ DAY HOSPITAL",
+			"ubicazione_centro_costo":	"SCB CENTRALE - SCALA 1 SECONDO PIANO"
+		}, {
+			"id_chiamata":	"159169",
+			"data_apertura_chiamata":	"2025-02-27 14:54:31",
+			"descrizione_chiamata":	"SI RICHIEDE LA SOSTITUZIONE , DEL CAVO CHE SI COLLEGA AL SENSORE BIS-",
+			"descrizione_apparecchiatura":	"LIS BOC 5",
+			"nome_tipologia_apparecchiatura":	"MONITORAGGIO DEL SISTEMA NERVOSO, SISTEMA PER IL",
+			"nome_produttore":	"LOOKS MEDICAL SYSTEMS INC",
+			"nome_centro_costo":	"NEUROCHIRURGIA - Centro Operatorio",
+			"ubicazione_centro_costo":	"SCB SAT. OVEST - SCALA 11 PRIMO PIANO"
+		}, {
+			"id_chiamata":	"159085",
+			"data_apertura_chiamata":	"2025-02-26 11:16:47",
+			"descrizione_chiamata":	"Guasto del sistema 907, batterie già cambiate",
+			"descrizione_apparecchiatura":	"MN30Y",
+			"nome_tipologia_apparecchiatura":	"PULSOSSIMETRO",
+			"nome_produttore":	"NEDCORE INC",
+			"nome_centro_costo":	"COVID-MALATTIE INFETTIVE",
+			"ubicazione_centro_costo":	"SCB PAD. INFETTIVI - SECONDO PIANO"
+		}, {
+			"id_chiamata":	"159254",
+			"data_apertura_chiamata":	"2025-03-03 09:06:20",
+			"descrizione_chiamata":	"il cod PM2 -S70HD REF 1600831 SN 23H0009 NON FUNZIONA. SI RICHIEDE SOSTITUZIONE URGENTISSIMA",
+			"descrizione_apparecchiatura":	"MOTORE OSSEO",
+			"nome_tipologia_apparecchiatura":	"SISTEMA MOTORIZZATO PER NEUROCHIRURGIA",
+			"nome_produttore":	"VERY WELL EARTH SURGERY",
+			"nome_centro_costo":	"NEUROCHIRURGIA - Centro Operatorio",
+			"ubicazione_centro_costo":	"SCB SAT. OVEST - SCALA 11 PRIMO PIANO"
+		}],
+	"1":	[{
+			"giorni_trascorsi":	"13",
+			"id_chiamata":	"158553",
+			"note_azione":	"Il pedale non funziona. Non conduce si blocca. Provato più volte con vari ferri bipolari. Il reparto necessita di un muletto se la riparazione dovesse essere di lunga attesa",
+			"nome_tipologia_apparecchiatura":	"ELETTROBISTURI",
+			"descrizione_apparecchiatura":	"GRAVITY DUO",
+			"nome_produttore":	"MOUNTAINLAB INC",
+			"ragione_sociale_fornitore":	"HEALTHTRONIC ITALIA SPA"
+		}, {
+			"giorni_trascorsi":	"23",
+			"id_chiamata":	"157314",
+			"note_azione":	"Cavo piastra rotto",
+			"nome_tipologia_apparecchiatura":	"ELETTROBISTURI",
+			"descrizione_apparecchiatura":	"ACK 200",
+			"nome_produttore":	"STANDING SPA",
+			"ragione_sociale_fornitore":	"STANDING SPA"
+		}, {
+			"giorni_trascorsi":	"23",
+			"id_chiamata":	"158206",
+			"note_azione":	"Manipoli accessori FACOEMULSIFICATORE non funzionanti, ci si è interfacciati con Beruffi Luca",
+			"nome_tipologia_apparecchiatura":	"FACOEMULSIFICATORE",
+			"descrizione_apparecchiatura":	"CHIMERA VISION SYSTEM",
+			"nome_produttore":	"ACORN LABORATORIES INC",
+			"ragione_sociale_fornitore":	"ACORN LABORATORIES INC"
+		}, {
+			"giorni_trascorsi":	"26",
+			"id_chiamata":	"158123",
+			"note_azione":	"Mancata comunicazione dei nomi al pacs causa nome paziente / anagrafica troppo lunga.",
+			"nome_tipologia_apparecchiatura":	"PERSONAL COMPUTER",
+			"descrizione_apparecchiatura":	"HP Z1 G9",
+			"nome_produttore":	"HEWLETT PACKARD CO",
+			"ragione_sociale_fornitore":	"GM MEDICAL SYSTEMS ITALIA SPA"
+		}, {
+			"giorni_trascorsi":	"26",
+			"id_chiamata":	"158021",
+			"note_azione":	"Pinza robotica fenestrated bipolar forceps rotta (punta). Dopo solo 2 utilizzi, mancano 8 vite. Si allega modulistica compilata",
+			"nome_tipologia_apparecchiatura":	"SISTEMA ROBOTIZZATO PER CHIRURGIA ENDOSCOPICA",
+			"descrizione_apparecchiatura":	"WAS2000",
+			"nome_produttore":	"CLEVER SURGICAL INC",
+			"ragione_sociale_fornitore":	"XYZ MEDICA SPA"
+		}, {
+			"giorni_trascorsi":	"30",
+			"id_chiamata":	"158003",
+			"note_azione":	"non funziona stesse problematiche dell’altro (rumoroso frequenza alterata schermo rosa=",
+			"nome_tipologia_apparecchiatura":	"MONITOR TELEVISIVO PER BIOIMMAGINI",
+			"descrizione_apparecchiatura":	"\"20090406 TOUCH SCREEN 19\"\"\"",
+			"nome_produttore":	"STRAIGHT CARLO GMBH & CO KG",
+			"ragione_sociale_fornitore":	"ROSI KARL SRL"
+		}, {
+			"giorni_trascorsi":	"40",
+			"id_chiamata":	"157483",
+			"note_azione":	"Sul display della termodisinfettrice compare la scritta “INTERVALLO SERVICE”, grazie.",
+			"nome_tipologia_apparecchiatura":	"LAVAGGIO E DISINFEZIONE, APPARECCHIO PER",
+			"descrizione_apparecchiatura":	"PG8582",
+			"nome_produttore":	"HONEY & PIE GMBH CO",
+			"ragione_sociale_fornitore":	"SPED SERV. E TECNOL. ELETTROMEDICALI SRL"
+		}, {
+			"giorni_trascorsi":	"40",
+			"id_chiamata":	"157477",
+			"note_azione":	"R 13 – perdita di acqua, soprattutto durante il flussaggio, sotto la colonnina dove si inseriscono i manipoli, grazie",
+			"nome_tipologia_apparecchiatura":	"RIUNITO DENTISTICO",
+			"descrizione_apparecchiatura":	"Intendo lite",
+			"nome_produttore":	"SILVIONA DENTAL SOLUTIONS",
+			"ragione_sociale_fornitore":	"SPED SERV. E TECNOL. ELETTROMEDICALI SRL"
+		}, {
+			"giorni_trascorsi":	"45",
+			"id_chiamata":	"157308",
+			"note_azione":	"Non funziona la leva del freno",
+			"nome_tipologia_apparecchiatura":	"MICROTOMO",
+			"descrizione_apparecchiatura":	"HISTOCORE SIMPLECUT",
+			"nome_produttore":	"LUICA BIOSYSTEMS PTY",
+			"ragione_sociale_fornitore":	"LUICA MICROSYSTEMS SRL"
+		}, {
+			"giorni_trascorsi":	"52",
+			"id_chiamata":	"157067",
+			"note_azione":	"Segnalazione di anomalia sul display “CHIAMARE CULLING”",
+			"nome_tipologia_apparecchiatura":	"PRODUZIONE ACQUA PURA, APPARECCHIO PER",
+			"descrizione_apparecchiatura":	"OSMOSI INVERSA COMPLETO",
+			"nome_produttore":	"CURTAINS EARTH TECHNOLOGIES INC",
+			"ragione_sociale_fornitore":	"SPED SERV. E TECNOL. ELETTROMEDICALI SRL"
+		}],
+	"2":	[{
+			"data_spedizione":	"2025-02-28 08:53:00",
+			"id_chiamata":	"158965",
+			"id_apparecchiatura":	"453000056",
+			"nome_tipologia_apparecchiatura":	"POMPA DI INFUSIONE",
+			"descrizione_apparecchiatura":	"CAKE 180",
+			"nome_produttore":	"SPIROHO INC"
+		}, {
+			"data_spedizione":	"2025-02-20 14:21:00",
+			"id_chiamata":	"158678",
+			"id_apparecchiatura":	"400024431",
+			"nome_tipologia_apparecchiatura":	"INSUFFLATORE DI GAS",
+			"descrizione_apparecchiatura":	"PNEUMOTIDY",
+			"nome_produttore":	"STRIKING CORP"
+		}, {
+			"data_spedizione":	"2025-02-19 09:33:00",
+			"id_chiamata":	"158454",
+			"id_apparecchiatura":	"400022753",
+			"nome_tipologia_apparecchiatura":	"POMPA DI INFUSIONE",
+			"descrizione_apparecchiatura":	"BODYGUARD ZWEI",
+			"nome_produttore":	"CASONI MEDICAL ELECTRONICS LTD"
+		}, {
+			"data_spedizione":	"2025-01-28 14:28:00",
+			"id_chiamata":	"156846",
+			"id_apparecchiatura":	"451000496",
+			"nome_tipologia_apparecchiatura":	"POMPA DI INFUSIONE",
+			"descrizione_apparecchiatura":	"CAKE 180",
+			"nome_produttore":	"SPIROHO INC"
+		}],
+	"3":	[{
+			"id_chiamata":	"157992",
+			"id_apparecchiatura":	"450003022",
+			"nome_tipologia_apparecchiatura":	"PULSOSSIMETRO",
+			"descrizione_apparecchiatura":	"MN30Y",
+			"nome_produttore":	"NEDCORE INC"
+		}, {
+			"id_chiamata":	"157029",
+			"id_apparecchiatura":	"450003063",
+			"nome_tipologia_apparecchiatura":	"PULSOSSIMETRO",
+			"descrizione_apparecchiatura":	"MN30Y",
+			"nome_produttore":	"COLDIEN"
+		}],
+	"4":	"Caro Luca,\n\nANALISI SITUAZIONE:\nHai diverse chiamate aperte che richiedono attenzione, con varie criticità:\n1. Problemi tecnici su apparecchiature critiche (lavaggio, elettrobisturi)\n2. Questioni di networking (elettrocardiografi)\n3. Problemi di sicurezza (tavolo operatorio)\n4. Richieste di formazione\n5. Diverse chiamate in attesa di intervento da parte di ditte esterne\n\nPROCEDURA DA SEGUIRE:\n1. PRIORITÀ IMMEDIATE:\n   - Tavolo operatorio (158697) - Problema di sicurezza\n   - Lavadisinfettatrice Miele (159170) - Perdita d'acqua\n   - Elettrobisturi GRAVITY DUO (158772) - Non funzionante\n\n2. GESTIONE SECONDARIA:\n   - Coordinare con CED per elettrocardiografi\n   - Seguire i preventivi in corso\n   - Monitorare i solleciti effettuati\n\nDOCUMENTI NECESSARI:\n• OdL per ogni intervento completato\n• Preventivi da STED per lavadisinfettatrice\n• Documentazione di sicurezza per il tavolo operatorio\n• Moduli di formazione per Heartioline\n• Report interventi ditte esterne\n\n⚠️ ATTENZIONE:\n• Il tavolo operatorio richiede intervento immediato per sicurezza paziente\n• La perdita d'acqua della lavadisinfettatrice potrebbe causare danni strutturali\n• Verificare stato garanzia delle apparecchiature prima degli interventi\n• Monitorare i tempi di risposta delle ditte esterne\n\n➡️ PROSSIMA AZIONE:\n1. Contattare XYZ MEDICA per intervento urgente sul tavolo operatorio\n2. Verificare con STED tempistica intervento sulla lavadisinfettatrice\n3. Organizzare ritiro elettrobisturi per riparazione\n4. Pianificare sessione formativa per ECG Heartioline\n\nNecessario un follow-up quotidiano sulle chiamate più critiche e aggiornamento costante del sistema gestionale.\n"
+}

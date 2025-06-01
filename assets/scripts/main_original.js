@@ -114,28 +114,40 @@ document.head.appendChild(style);
 
 // Funzione asincrona per recuperare i dati
 async function fetchData() {
-    try {
-        const data = {
-            0: await import('./assets/data/0.json', { assert: { type: 'json' } }).then(m => m.default),
-            1: await import('./assets/data/1.json', { assert: { type: 'json' } }).then(m => m.default),
-            2: await import('./assets/data/2.json', { assert: { type: 'json' } }).then(m => m.default),
-            3: await import('./assets/data/3.json', { assert: { type: 'json' } }).then(m => m.default),
-            4: await import('./assets/data/4.json', { assert: { type: 'json' } }).then(m => m.default)
-        };
-		
-		//Inserisci il testo generato dall'ai
-        document.getElementById('aiContent').textContent = data['4'] || '';
+ const userId = document.getElementById('userSelect').value;
+ try {
+     const response = await fetch(`https://api.ballini.uk/${userId}`);
+     
+     // Controlla per errori 5xx 
+     if (response.status >= 500 && response.status < 600) {
+         throw new Error('SERVER_ERROR');
+     }
+     
+     if (!response.ok) throw new Error(`Errore HTTP! status: ${response.status}`);
+     const data = await response.json();
 
-		//Crea le varie tabelle
-        if (data['0']) createTable(data['0'], 'assignedTable');
-        if (data['1']) createTable(data['1'], 'tenDaysTable');
-        if (data['2']) createTable(data['2'], 'shippedTable');
-        if (data['3']) createTable(data['3'], 'toRetrieveTable');
+     // Aggiorna la panoramica AI
+     document.getElementById('aiContent').textContent = data['4'] || '';
 
-    } catch (error) {
-        console.error('Errore nel recupero dei dati:', error);
-        alert('Errore nel recupero dei dati:');
-    }
+     // Aggiorna le tabelle
+     if (data['0']) createTable(data['0'], 'assignedTable');
+     if (data['1']) createTable(data['1'], 'tenDaysTable');
+     if (data['2']) createTable(data['2'], 'shippedTable');
+     if (data['3']) createTable(data['3'], 'toRetrieveTable');
+
+ } catch (error) {
+     console.error('Errore nel recupero dei dati:', error);
+     
+     // Controlla per errori 5xx e errori CORS 
+     if (error.message === 'SERVER_ERROR' || 
+         error instanceof TypeError || // Errori cors tendenzialmente mostrano errori TypeError
+         error.message.includes('CORS') || 
+         error.message.includes('Failed to fetch')) {
+         alert('Il server API non è raggiungibile al momento');
+     } else {
+         alert('Errore nel recupero dei dati. Controlla la console per i dettagli.');
+     }
+ }
 }
 
 // Carica i dati iniziali quando il DOM è pronto

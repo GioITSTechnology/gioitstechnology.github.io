@@ -1,0 +1,64 @@
+/* ./assets/styles/style.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f5f5f5;
+    max-width: 800px;
+    margin: 0 auto; /* Centers the content */
+}
+
+header {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+h1 {
+    color: #333;
+}
+
+.solution-section {
+    background-color: white;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    text-align: center; /* Centers the content inside sections */
+}
+
+h2 {
+    color: #444;
+    margin-top: 0;
+}
+
+.links-list {
+    list-style: none;
+    padding: 0;
+    margin: 15px 0;
+}
+
+.links-list li {
+    margin: 10px 0;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+    min-width: 200px; /* Gives buttons a consistent width */
+}
+
+.button:hover {
+    background-color: #0056b3;
+}
+
+footer {
+    text-align: left;
+    margin-top: 40px;
+    color: #666;
+}

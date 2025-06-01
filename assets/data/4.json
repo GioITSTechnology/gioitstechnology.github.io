@@ -1,0 +1,73 @@
+{
+	"0":	[{
+			"id_chiamata":	"156768",
+			"data_apertura_chiamata":	"2025-01-02 08:31:08",
+			"descrizione_chiamata":	"cavo ultracision non funziona",
+			"descrizione_apparecchiatura":	"PRECISION G300 HARMONIC SCAPEL GM",
+			"nome_tipologia_apparecchiatura":	"BISTURI AD ULTRASUONI",
+			"nome_produttore":	"EMOTICON ENDO SURGERY INC",
+			"nome_centro_costo":	"CARDIOCHIRURGIA - Centro Operatorio",
+			"ubicazione_centro_costo":	"MONOBLOCCO D-TERZO PIANO OVEST"
+		}, {
+			"id_chiamata":	"159081",
+			"data_apertura_chiamata":	"2025-02-26 10:55:45",
+			"descrizione_chiamata":	"tubo rotto",
+			"descrizione_apparecchiatura":	"HOTWIND 123",
+			"nome_tipologia_apparecchiatura":	"TERMOREGOLAZIONE CORPOREA, APPARECCHIO PER",
+			"nome_produttore":	"CSZ CINCINNATI SKORPION PRODUCTS INC",
+			"nome_centro_costo":	"CHIRURGIA GENERALE 3 - Centro Operatorio",
+			"ubicazione_centro_costo":	"MONOBLOCCO D-SETTIMO PIANO"
+		}, {
+			"id_chiamata":	"159232",
+			"data_apertura_chiamata":	"2025-03-03 07:11:40",
+			"descrizione_chiamata":	"LA POMPA NON GONFIA",
+			"descrizione_apparecchiatura":	"Compressore dvt-2600",
+			"nome_tipologia_apparecchiatura":	"PRESSOTERAPIA, APPARECCHIO PER",
+			"nome_produttore":	"STANDING SPA",
+			"nome_centro_costo":	"NEUROLOGIA- Degenze - Sezione Mista",
+			"ubicazione_centro_costo":	"SCB SAT. CENTRO - SCALA 10 TERZO PIANO"
+		}, {
+			"id_chiamata":	"159253",
+			"data_apertura_chiamata":	"2025-03-03 09:00:23",
+			"descrizione_chiamata":	"Si consegna manipolo rapido ( sn J 007)  con il cavo ( ref 1600519 sn 120c0144) che risulta rotto. Parte terminale staccata.",
+			"descrizione_apparecchiatura":	"MOTORE OSSEO",
+			"nome_tipologia_apparecchiatura":	"SISTEMA MOTORIZZATO PER NEUROCHIRURGIA",
+			"nome_produttore":	"VERY WELL EARTH SURGERY",
+			"nome_centro_costo":	"NEUROCHIRURGIA - Centro Operatorio",
+			"ubicazione_centro_costo":	"SCB SAT. OVEST - SCALA 11 PRIMO PIANO"
+		}],
+	"1":	[{
+			"giorni_trascorsi":	"13",
+			"id_chiamata":	"158603",
+			"note_azione":	"allarme service Urgente",
+			"nome_tipologia_apparecchiatura":	"LAVAGGIO DEI MANIPOLI, APPARECCHIO PER",
+			"descrizione_apparecchiatura":	"BM-33T",
+			"nome_produttore":	"Fornitore fittizio",
+			"ragione_sociale_fornitore":	"YESEM SPA"
+		}, {
+			"giorni_trascorsi":	"31",
+			"id_chiamata":	"157931",
+			"note_azione":	"lo schermo plasma di sala 4 non funziona",
+			"nome_tipologia_apparecchiatura":	"MONITOR TELEVISIVO PER BIOIMMAGINI",
+			"descrizione_apparecchiatura":	"PLASMA 42",
+			"nome_produttore":	"STRAIGHT CARLO GMBH & CO KG",
+			"ragione_sociale_fornitore":	"ROSI KARL SRL"
+		}, {
+			"giorni_trascorsi":	"31",
+			"id_chiamata":	"157915",
+			"note_azione":	"fenestrated bipolar forceps cod. 471205 rotta (si allega allo strumento di reporting check list XYZ MEDICA) vite residue 6 si chiede report su danno Urgente Grazie",
+			"nome_tipologia_apparecchiatura":	"SISTEMA ROBOTIZZATO PER CHIRURGIA ENDOSCOPICA",
+			"descrizione_apparecchiatura":	"WAS2000",
+			"nome_produttore":	"CLEVER SURGICAL INC",
+			"ragione_sociale_fornitore":	"XYZ MEDICA SPA"
+		}],
+	"2":	[],
+	"3":	[{
+			"id_chiamata":	"158898",
+			"id_apparecchiatura":	"400016697",
+			"nome_tipologia_apparecchiatura":	"SISTEMA MOTORIZZATO PER CHIRURGIA OTORINOLARINGOIATRICA",
+			"descrizione_apparecchiatura":	"Coswin import: da completare",
+			"nome_produttore":	"HEALTHRONIC XOMED INC"
+		}],
+	"4":	"Buongiorno Fabio,\n\nANALISI SITUAZIONE:\n• Agitatore da laboratorio VORTEX CLASSIC non funzionante\n• Ricevuto preventivo per sostituzione\n• Rilevata discrepanza documentale su garanzia\n• Problema: incongruenza tra verbale collaudo, ordine e modulo excel\n• Ubicazione: Lab. Nocivelli, Monoblocco D piano terra\n\nPROCEDURA DA SEGUIRE:\n1. Verificare urgentemente documentazione:\n   - Controllare data effettiva collaudo\n   - Verificare termini garanzia nell'ordine originale\n   - Confrontare con modulo excel gestionale\n\n2. Se confermata anomalia documentale:\n   - Segnalare a RdS\n   - Richiedere verifica amministrativa\n   - Contestare eventualmente alla KARL GRASS\n\n3. In attesa chiarimenti:\n   - Conservare preventivo ricevuto\n   - Documentare anomalie riscontrate\n   - Preparare relazione tecnica\n\nDOCUMENTI NECESSARI:\n• Verbale di collaudo originale\n• Ordine di acquisto\n• Modulo excel gestionale\n• Preventivo KARL GRASS\n• Documentazione garanzia\n• Report anomalie riscontrate\n\n⚠️ ATTENZIONE:\n• Possibile contestazione termini garanzia\n• Necessaria verifica accurata date\n• Impatto su budget manutenzione\n• Apparecchiatura ferma in laboratorio specialistico\n\n➡️ PROSSIMA AZIONE:\nPreparare report dettagliato delle incongruenze documentali e inoltrare urgentemente al RdS per valutazione e decisione su come procedere con il fornitore KARL GRASS."
+}

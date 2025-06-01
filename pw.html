@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en" class=" seamnvlwra idc0_343"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	    <meta charset="UTF-8">
+	    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="icon" type="image/png" href="assets/images/favicon.png">
+	    <title>Service Dashboard</title>
+	    <link rel="stylesheet" type="text/css" href="assets/styles/style.css">
+	</head>
+<body class="ag-theme-alpine">
+ <div class="user-select">
+	 <select id="userSelect">
+		 <option value="0">Sonia</option>
+		 <option value="1">Luca</option>
+		 <option value="2">Lorenzo</option>
+		 <option value="3">Michele</option>
+		 <option value="4">Fabio</option>
+	 </select>
+	 <button onclick="fetchData()">Ottieni dati</button>
+ </div>
+
+ <div class="content-panel">
+	 <h2 class="section-title">Panoramica AI</h2>
+	 <pre id="aiContent"></pre>
+ </div>
+
+ <div class="content-panel">
+	 <h2 class="section-title">Assegnate senza azioni</h2>
+	 <div id="assignedTable"></div>
+ </div>
+
+ <div class="content-panel">
+	 <h2 class="section-title">Interventi non ancora eseguiti dalla ditta esterna</h2>
+	 <div id="tenDaysTable"></div>
+ </div>
+
+ <div class="content-panel">
+	 <h2 class="section-title">Apparecchiature spedite in riparazione</h2>
+	 <div id="shippedTable"></div>
+ </div>
+
+ <div class="content-panel">
+	 <h2 class="section-title">Apparecchiature che il reparto deve ritirare</h2>
+	 <div id="toRetrieveTable"></div>
+ </div>
+
+ <script src="assets/scripts/main.js"></script>
+     
+	<footer style="
+    background-color: #f8f9fa;
+    padding: 20px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    margin-top: 40px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: #666;">
+    
+    <div style="
+        max-width: 1200px;
+        margin: 0 auto;">
+        
+        <div style="flex: 1;">
+            <h3 style="margin-bottom: 10px; color: #333;">Privacy Statement</h3>
+            <p>This static website:</p>
+            <ul style="list-style: none; padding-left: 0;">
+                <li>• Does not collect any personal data</li>
+                <li>• Does not use cookies</li>
+                <li>• Does not track visitors</li>
+                <li>• Is hosted on GitHub Pages</li>
+            </ul>
+            <p style="margin-top: 10px;">
+                Note: GitHub may collect IP addresses and other basic visitor data. 
+                See <a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement" 
+                    style="color: #0366d6; text-decoration: none;">GitHub's Privacy Policy</a>.
+            </p>
+        </div>
+    </div>
+
+    <div style="
+        text-align: center;
+        margin-top: 20px;
+        padding-top: 20px;
+        border-top: 1px solid #ddd;">
+        <p>© 2025 GioITSTechnology All rights reserved.</p>
+    </div>
+</footer>
+</body>
+</html>

@@ -116,22 +116,37 @@ document.head.appendChild(style);
 async function fetchData() {
  const userId = document.getElementById('userSelect').value;
  try {
-	 const response = await fetch(`https://api.ballini.uk/${userId}`);
-	 if (!response.ok) throw new Error(`Errore HTTP! status: ${response.status}`);
-	 const data = await response.json();
+     const response = await fetch(`https://api.ballini.uk/${userId}`);
+     
+     // Controlla per errori 5xx 
+     if (response.status >= 500 && response.status < 600) {
+         throw new Error('SERVER_ERROR');
+     }
+     
+     if (!response.ok) throw new Error(`Errore HTTP! status: ${response.status}`);
+     const data = await response.json();
 
-	 // Aggiorna la panoramica AI
-	 document.getElementById('aiContent').textContent = data['4'] || '';
+     // Aggiorna la panoramica AI
+     document.getElementById('aiContent').textContent = data['4'] || '';
 
-	 // Aggiorna le tabelle
-	 if (data['0']) createTable(data['0'], 'assignedTable');
-	 if (data['1']) createTable(data['1'], 'tenDaysTable');
-	 if (data['2']) createTable(data['2'], 'shippedTable');
-	 if (data['3']) createTable(data['3'], 'toRetrieveTable');
+     // Aggiorna le tabelle
+     if (data['0']) createTable(data['0'], 'assignedTable');
+     if (data['1']) createTable(data['1'], 'tenDaysTable');
+     if (data['2']) createTable(data['2'], 'shippedTable');
+     if (data['3']) createTable(data['3'], 'toRetrieveTable');
 
  } catch (error) {
-	 console.error('Errore nel recupero dei dati:', error);
-	 alert('Errore nel recupero dei dati. Controlla la console per i dettagli.');
+     console.error('Errore nel recupero dei dati:', error);
+     
+     // Controlla per errori 5xx e errori CORS 
+     if (error.message === 'SERVER_ERROR' || 
+         error instanceof TypeError || // Errori cors tendenzialmente mostrano errori TypeError
+         error.message.includes('CORS') || 
+         error.message.includes('Failed to fetch')) {
+         alert('Il server API non è raggiungibile al momento');
+     } else {
+         alert('Errore nel recupero dei dati. Controlla la console per i dettagli.');
+     }
  }
 }
 

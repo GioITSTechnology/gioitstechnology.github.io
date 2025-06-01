@@ -25,7 +25,7 @@ const char *ai_lorenzo = ""
 
 const char *ai_michele = "";
 
-const char *ai_fabio = ""
+const char *ai_fabio = "";
 
 // The users numbers are the actual ids of the users in SCB.db
 const int users[] = {390, 219,34,179,17};

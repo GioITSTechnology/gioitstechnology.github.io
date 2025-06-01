@@ -116,11 +116,11 @@ document.head.appendChild(style);
 async function fetchData() {
     try {
         const data = {
-            0: await fetch('../data/0.json').then(response => response.json()),
-            1: await fetch('../data/1.json').then(response => response.json()),
-            2: await fetch('../data/2.json').then(response => response.json()),
-            3: await fetch('../data/3.json').then(response => response.json()),
-            4: await fetch('../data/4.json').then(response => response.json())
+            0: await fetch('/assets/data/0.json').then(response => response.json()),
+            1: await fetch('/assets/data/1.json').then(response => response.json()),
+            2: await fetch('/assets/data/2.json').then(response => response.json()),
+            3: await fetch('/assets/data/3.json').then(response => response.json()),
+            4: await fetch('/assets/data/4.json').then(response => response.json())
         };
         
         //Inserisci il testo generato dall'ai

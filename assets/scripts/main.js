@@ -116,11 +116,11 @@ document.head.appendChild(style);
 async function fetchData() {
     try {
         const data = {
-            0: await import('./assets/data/0.json', { assert: { type: 'json' } }).then(m => m.default),
-            1: await import('./assets/data/1.json', { assert: { type: 'json' } }).then(m => m.default),
-            2: await import('./assets/data/2.json', { assert: { type: 'json' } }).then(m => m.default),
-            3: await import('./assets/data/3.json', { assert: { type: 'json' } }).then(m => m.default),
-            4: await import('./assets/data/4.json', { assert: { type: 'json' } }).then(m => m.default)
+            0: await import('../data/0.json', { assert: { type: 'json' } }).then(m => m.default),
+            1: await import('../data/1.json', { assert: { type: 'json' } }).then(m => m.default),
+            2: await import('../data/2.json', { assert: { type: 'json' } }).then(m => m.default),
+            3: await import('../data/3.json', { assert: { type: 'json' } }).then(m => m.default),
+            4: await import('../data/4.json', { assert: { type: 'json' } }).then(m => m.default)
         };
 		
 		//Inserisci il testo generato dall'ai

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en" class=" seamnvlwra idc0_343"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	    <meta charset="UTF-8">
+	    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	    <title>Service Dashboard</title>
+	    <link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+     <body class="ag-theme-alpine">
+         <div class="user-select">
+             <select id="userSelect">
+                 <option value="0">Sonia</option>
+                 <option value="1">Luca</option>
+                 <option value="2">Lorenzo</option>
+                 <option value="3">Michele</option>
+                 <option value="4">Fabio</option>
+             </select>
+             <button onclick="fetchData()">Ottieni dati</button>
+         </div>
+     
+         <div class="content-panel">
+             <h2 class="section-title">Panoramica AI</h2>
+             <pre id="aiContent"></pre>
+         </div>
+     
+         <div class="content-panel">
+             <h2 class="section-title">Assegnate senza azioni</h2>
+             <div id="assignedTable"></div>
+         </div>
+     
+         <div class="content-panel">
+             <h2 class="section-title">Interventi non ancora eseguiti dalla ditta esterna</h2>
+             <div id="tenDaysTable"></div>
+         </div>
+     
+         <div class="content-panel">
+             <h2 class="section-title">Apparecchiature spedite in riparazione</h2>
+             <div id="shippedTable"></div>
+         </div>
+     
+         <div class="content-panel">
+             <h2 class="section-title">Apparecchiature che il reparto deve ritirare</h2>
+             <div id="toRetrieveTable"></div>
+         </div>
+     
+         <script src="main.js"></script>
+     
+     
+</body></html>

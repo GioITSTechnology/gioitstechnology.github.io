@@ -114,14 +114,10 @@ document.head.appendChild(style);
 
 // Funzione asincrona per recuperare i dati
 async function fetchData() {
+    const userId = document.getElementById('userSelect').value;
     try {
-        const data = {
-            0: await fetch('/assets/data/0.json').then(response => response.json()),
-            1: await fetch('/assets/data/1.json').then(response => response.json()),
-            2: await fetch('/assets/data/2.json').then(response => response.json()),
-            3: await fetch('/assets/data/3.json').then(response => response.json()),
-            4: await fetch('/assets/data/4.json').then(response => response.json())
-        };
+        const response = await fetch(`/assets/data/${userId}.json`);
+        const data = await response.json();
         
         //Inserisci il testo generato dall'ai
         document.getElementById('aiContent').textContent = data['4'] || '';

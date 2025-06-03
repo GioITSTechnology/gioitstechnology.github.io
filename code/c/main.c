@@ -145,7 +145,7 @@ char *create_response(int num) {
     sqlite3 *db;
     char *err_msg = 0;
 	
-    int rc = sqlite3_open("/home/webmaster/simple_query/SCB.db", &db);
+    int rc = sqlite3_open("your/sqlite/location.db", &db);
 
     if (rc != SQLITE_OK) {
         fprintf(stderr, "Cannot open database: %s\n", sqlite3_errmsg(db));

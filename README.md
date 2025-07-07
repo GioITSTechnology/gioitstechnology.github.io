@@ -1,4 +1,4 @@
-# Ottimizzazione del processo di visualizzazione delle manutenzioni correttive in una realtà ospedaliera (con AI)
+# Riprogettazione dell’interfaccia utente per la gestione delle manutenzioni correttive ospedaliere (con AI)
 
 ## 📋 Descrizione del Progetto
 
